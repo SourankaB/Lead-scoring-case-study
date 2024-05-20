@@ -32,13 +32,13 @@ There are some more problems presented by the company which your model should be
 - Conclusion based on our results
 
 ## Conclusion
-•	Landing Page Submissions and Lead Add Form lead to more conversions.
-•	Conversions are higher for leads from Google, Organic Search, Direct Traffic, and Referrals.
-•	SMS and Email marketing leads have higher conversions.
-•	Finance, HR, Marketing, Operations, and Banking sector leads tend to convert more.
-•	"Better Career Prospects" option for career outcome leads to higher conversions.
-•	Leads spending more time on the website tend to convert more.
-•	Reducing website bounce rate can increase customer engagement time and conversions.
-•	Lead Add Form generates qualifying leads and should be used across key areas.
-•	Sales team should focus on working professionals for higher conversions.
-•	Leads with a Lead Score >0.35 tend to convert more, with a model accuracy score of 91%.
+-	Landing Page Submissions and Lead Add Form lead to more conversions.
+-	Conversions are higher for leads from Google, Organic Search, Direct Traffic, and Referrals.
+-	SMS and Email marketing leads have higher conversions.
+-	Finance, HR, Marketing, Operations, and Banking sector leads tend to convert more.
+-	"Better Career Prospects" option for career outcome leads to higher conversions.
+-	Leads spending more time on the website tend to convert more.
+-	Reducing website bounce rate can increase customer engagement time and conversions.
+-	Lead Add Form generates qualifying leads and should be used across key areas.
+-	Sales team should focus on working professionals for higher conversions.
+-	Leads with a Lead Score >0.35 tend to convert more, with a model accuracy score of 91%.
