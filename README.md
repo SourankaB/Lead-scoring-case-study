@@ -1,29 +1,16 @@
-# Project Name
+# Lead scoring case study
 
 ## Description
-Briefly describe what your project does.
-
-## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Installation
-Provide instructions on how to install and set up your project.
-
-## Usage
-Explain how to use your project. Include examples if applicable.
-
-## Contributing
-If you would like others to contribute to your project, provide guidelines for how they can do so.
-
-## License
-Include information about the license for your project.
-
-## Credits
-If your project uses any third-party resources or if you want to credit contributors, include that here.
-
-## Contact
-Provide contact information for yourself or your team, in case others have questions or want to reach out.
-
+This project is regarding the X Education (Online education) to select the most promising leads, i.e. the leads that are most likely to convert into paying customers.
+❖X Education has a high number of leads, but their lead conversion rate is only 
+about 30%.
+❖X Education is looking to increase the efficiency of their lead conversion 
+process by identifying the most promising leads, also known as Hot Leads.
+❖The sales team wants to prioritize communication with these potential leads 
+instead of reaching out to everyone.
+❖Our objective is to help X Education select the most promising leads - those 
+with the highest likelihood of converting into paying customers.
+❖We will build a model to assign a lead score to each lead, with higher scores 
+indicating a higher chance of conversion and lower scores indicating a lower 
+chance of conversion.
+❖The CEO has set a target lead conversion rate of approximately 80%
