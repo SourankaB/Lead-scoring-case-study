@@ -32,13 +32,11 @@ There are some more problems presented by the company which your model should be
 - Conclusion based on our results
 
 ## Conclusion
-Conversions are higher for leads from Google, Organic Search, Direct Traffic, and Referrals.
-SMS and Email marketing leads have higher conversion rates.
-The Lead Add Form generates qualifying leads and should be used across key areas.
-Leads with a Lead Score >0.35 tend to convert more, and the model accuracy score is 91%.
-The sales team should focus on working professionals for higher conversions.
-Leads spending more time on the website tend to convert more.
-Reducing the website bounce rate can increase customer engagement time and conversions.
-Landing Page Submissions and the Lead Add Form lead to more conversions.
-![image](https://github.com/Sonu-Faizal-Vasaya/Lead-scoring-case-study/assets/169676560/0e8f3e9a-92d9-4083-8727-4d46dfad9f04)
-
+- Conversions are higher for leads from Google, Organic Search, Direct Traffic, and Referrals.
+- SMS and Email marketing leads have higher conversion rates.
+- The Lead Add Form generates qualifying leads and should be used across key areas.
+- Leads with a Lead Score >0.35 tend to convert more, and the model accuracy score is 91%.
+- The sales team should focus on working professionals for higher conversions.
+- Leads spending more time on the website tend to convert more.
+- Reducing the website bounce rate can increase customer engagement time and conversions.
+- Landing Page Submissions and the Lead Add Form lead to more conversions.
